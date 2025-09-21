@@ -32,7 +32,7 @@ volatile uint8_t button_press_count = 0;
 #define REQUIRED_BUTTON_PRESSES 3 
  
 // SMS phone number 
-const char* sms_phone_number = "+918618373594"; 
+const char* sms_phone_number = "+91 00000000000"; 
  
 // GPS UART1 callback function 
 void gps_uart_callback(uart_callback_args_t *p_args) 
