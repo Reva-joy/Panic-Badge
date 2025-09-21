@@ -1,4 +1,6 @@
 Demo video - https://drive.google.com/file/d/15SsNjb7OKQsSOXbOdoBUXPjAK4xVujoP/view?usp=drivesdk 
+
+
 Panic Badge – Smart Safety Device
 
 The Panic Badge is an innovative wearable safety device designed to provide discreet and instant panic alerts amid rising crime rates. Unlike existing solutions that depend on smartphones or visible panic buttons, this badge enables silent, tap-pattern-based activation and ensures immediate communication of distress signals through location sharing and audio playback.
@@ -19,6 +21,7 @@ Compact & Portable – Designed like an ID badge for daily wear.
 
 Battery Management System (BMS) – Safe charging and power regulation for reliable use.
 
+"Serial communication Protocol (UART) is used "
 Hardware Components
 
 Renesas RA6E2 Microcontroller – Controls all modules.
