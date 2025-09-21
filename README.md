@@ -1,3 +1,4 @@
+Demo video - https://drive.google.com/file/d/15SsNjb7OKQsSOXbOdoBUXPjAK4xVujoP/view?usp=drivesdk 
 Panic Badge – Smart Safety Device
 
 The Panic Badge is an innovative wearable safety device designed to provide discreet and instant panic alerts amid rising crime rates. Unlike existing solutions that depend on smartphones or visible panic buttons, this badge enables silent, tap-pattern-based activation and ensures immediate communication of distress signals through location sharing and audio playback.
