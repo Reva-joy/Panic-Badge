@@ -52,6 +52,7 @@ Plays a pre-recorded distress audio message.
 
 Ensures discreet yet effective alert system.
 
-https://github.com/Reva-joy/Panic-Badge/blob/main/Screenshot%202025-08-30%20123542.png
+schematic: https://github.com/Reva-joy/Panic-Badge/blob/main/Screenshot%202025-08-30%20123542.png
+
 
 
